@@ -14,15 +14,7 @@
   </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 3.10 (PuffBattleBackend)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (CineTickets) (3)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-  </component>
-  <component name="TemplatesService">
-    <option name="TEMPLATE_CONFIGURATION" value="Django" />
-    <option name="TEMPLATE_FOLDERS">
-      <list>
-        <option value="$MODULE_DIR$/../DjangoPro3\templates" />
-      </list>
-    </option>
   </component>
 </module>
